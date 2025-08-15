@@ -9,10 +9,11 @@
  *               detection. The single player mode uses the left button and
  *               photoelectric sensor to increment the user's score. The right button
  *               is used to begin computer scoring, in which a real opponent's scoring
- *               is simulated. The first to 10 wins.
- *
+ *               is simulated. The first to 10 wins. 
+ *  
+ * Platform:     MSP430F5529
  * Author:       Ryan Boyle
- * Date:         July–August 2025
+ * Date:         Julyâ€“August 2025
  ***********************************************************************************************/
 
 
@@ -159,6 +160,7 @@ int main(void){
       return 0;
 
 }
+
 
 
 
